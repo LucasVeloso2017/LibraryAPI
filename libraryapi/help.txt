@@ -1,0 +1,8 @@
+
+book atributes 
+
+id
+title
+publisher
+photo
+authors
